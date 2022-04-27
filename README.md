@@ -4,16 +4,15 @@ I'm a self-taught developer specialized in **fullstack web development**.
 
 ## Technologies I use
 ### :pencil2: Frontend
-- HTML
-- JavaScript
-- TypeScript (in progress)
-- React (in progress)
+- [![javascript](https://badges.aleen42.com/src/javascript.svg)](https://www.javascript.com/)
+- [![typescript](https://badges.aleen42.com/src/typescript.svg)]() (in progress)
+- [![react](https://badges.aleen42.com/src/react.svg)]() (in progress)
 - React Native (in progress)
-- CSS (SCSS)
+- SCSS
 ### :computer: Backend
-- Python Django
-- Python Flask
-- Node.js (in progress)
+- [![python](https://badges.aleen42.com/src/python.svg)]() Django
+- [![python](https://badges.aleen42.com/src/python.svg)]() Flask
+- [![node](https://badges.aleen42.com/src/node.svg)]() (in progress)
 - MS SQL Server
 - MySQL
 - PostgreSQL (in progress)
