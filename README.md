@@ -2,7 +2,7 @@
 
 I'm a self-taught developer specialized in **fullstack web development**.
 
-## Technologies I know
+## Technologies I use
 ### :pencil2: Frontend
 - HTML
 - JavaScript
