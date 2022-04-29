@@ -17,6 +17,7 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ![mssql](https://img.shields.io/badge/Microsoft_SQL_Server--20232A?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL--20232A?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-in_progress-20232A?style=for-the-badge&logo=postgresql&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-in_progress-20232A?style=for-the-badge&logo=firebase&logoColor=white)
 ### :iphone: Mobile
 ![react native](https://img.shields.io/badge/React_Native-in_progress-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-in_progress-20232A?style=for-the-badge&logo=flutter&logoColor=white)
