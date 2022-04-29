@@ -7,7 +7,7 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ![javascript](https://img.shields.io/badge/JavaScript--20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-in_progress-20232A?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-in_progress-20232A?style=for-the-badge&logo=react&logoColor=white)
-![sass](https://img.shields.io/badge/Sass--20232A?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_css-in_progress-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ### :computer: Backend
 ![django](https://img.shields.io/badge/Django--20232A?style=for-the-badge&logo=django&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask--20232A?style=for-the-badge&logo=flask&logoColor=white)
