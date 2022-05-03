@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a self-taught developer specialized in **fullstack web development**.
+I'm a self-taught developer specialized in **fullstack web development**. 
+## Contact
+[![email badge](https://img.shields.io/badge/contact@wzarek.me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:contact@wzarek.me)
 
 ## Technologies I use
 ### :pencil2: Frontend
