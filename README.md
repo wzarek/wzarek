@@ -7,6 +7,7 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ## Technologies I use
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzarek&layout=compact&theme=vision-friendly-dark" alt="Top langs" />
+  
 </div>
 
 
@@ -31,5 +32,6 @@ I'm a self-taught developer specialized in **fullstack web development**.
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzarek&theme=highcontrast" alt="Top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzarek&theme=highcontrast" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wzarek&layout=compact&show_icons=true&theme=vision-friendly-dark" alt="Account stats" />
 </div>
