@@ -5,6 +5,11 @@ I'm a self-taught developer specialized in **fullstack web development**.
 [![email badge](https://img.shields.io/badge/contact@wzarek.me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:contact@wzarek.me)
 
 ## Technologies I use
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzarek&layout=compact&theme=vision-friendly-dark" alt="Top langs" />
+</div>
+
+
 ### :pencil2: Frontend
 ![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
@@ -23,3 +28,8 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ### :iphone: Mobile
 ![react native](https://img.shields.io/badge/React_Native-in_progress-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-in_progress-20232A?style=for-the-badge&logo=flutter&logoColor=white)
+
+## Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzarek&theme=highcontrast" alt="Top langs" />
+</div>
