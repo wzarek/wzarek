@@ -3,6 +3,7 @@
 I'm a self-taught developer specialized in **fullstack web development**. 
 ## Contact
 [![email badge](https://img.shields.io/badge/contact@wzarek.me-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:contact@wzarek.me)
+[![email badge](https://img.shields.io/badge/wzarek.me-grey?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=grey)](https://wzarek.me)
 
 ## Technologies I use
 <div align="center">
