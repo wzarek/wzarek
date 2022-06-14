@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=wzarek&style=flat-square)
 
 I'm a self-taught developer specialized in **fullstack web development**. 
 ## Contact
