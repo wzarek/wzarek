@@ -23,6 +23,7 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ![django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=white)
+![selenium](https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-in_progress-20232A?style=for-the-badge&logo=node.js&logoColor=white)
 ![socket](https://img.shields.io/badge/Socket.io-in_progress-20232A?style=for-the-badge&logo=socket.io&logoColor=white)
 ### :floppy_disk: Database
@@ -34,6 +35,10 @@ I'm a self-taught developer specialized in **fullstack web development**.
 ### :iphone: Mobile
 ![react native](https://img.shields.io/badge/React_Native-in_progress-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-in_progress-20232A?style=for-the-badge&logo=flutter&logoColor=white)
+### Other (tools)
+![jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=jira&logoColor=white)
+![trello](https://img.shields.io/badge/Trello-20232A?style=for-the-badge&logo=trello&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Stats
 <div align="center">
