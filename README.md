@@ -15,8 +15,9 @@ I'm a self-taught developer specialized in **fullstack web development**.
 
 ### :pencil2: Frontend
 ![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-in_progress-20232A?style=for-the-badge&logo=typescript&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-in_progress-20232A?style=for-the-badge&logo=angular&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_css-in_progress-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![blazor](https://img.shields.io/badge/Blazor-in_progress-20232A?style=for-the-badge&logo=blazor&logoColor=white)
 ### :computer: Backend
